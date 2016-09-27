@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">桔子分期</string>
+    <string name="net_work_disable">网络不可用，请检查网络连接</string>
+
+    <string name="hours_ago_ars">%1$s小时前</string>
+    <string name="minutes_ago_ars">%1$s分钟前</string>
+    <string name="just_now">刚刚</string>
+    <string name="no_more_data">没有更多数据了</string>
+</resources>
